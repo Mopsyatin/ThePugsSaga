@@ -47,7 +47,7 @@ hprange = 351
 i = 0
 
 index = 0
-lvl = 1
+lvl = 5
 what_room = 1
 count_levels = 10
 reward_show = 0
