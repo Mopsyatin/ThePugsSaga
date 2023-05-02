@@ -1,7 +1,4 @@
-import pgzero
-import pgzrun
-import pygame
-import random
+import pgzero, pgzrun, pygame, random
 #pygame sounds
 pygame.mixer.init()
 victory_sound = pygame.mixer.Sound('victory.mp3')
