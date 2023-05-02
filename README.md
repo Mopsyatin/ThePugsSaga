@@ -1,5 +1,7 @@
 # ThePugsSaga
      The pug labyrinth game
-Start and play!!
+Start and play! 
+Ps: pugs are cool
+
 
 
